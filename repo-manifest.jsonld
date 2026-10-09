@@ -1,0 +1,15 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/modelcontextprotocol/experimental-ext-interceptors",
+  "@type": "gh:Repository",
+  "gh:name": "experimental-ext-interceptors",
+  "gh:owner": "modelcontextprotocol",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/modelcontextprotocol/experimental-ext-interceptors/commit/b60459844cc95f2170297ebe1c84b7de8b752953",
+      "git:hexsha": "b60459844cc95f2170297ebe1c84b7de8b752953",
+      "repolex:parseStatus": "metadata_complete",
+      "git:tagName": "main"
+    }
+  ]
+}
