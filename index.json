@@ -1,0 +1,11 @@
+{
+  "org": "modelcontextprotocol",
+  "repo": "experimental-ext-interceptors",
+  "versions": [
+    {
+      "commit": "b60459844cc95f2170297ebe1c84b7de8b752953",
+      "tag": "main",
+      "parsed_at": "2026-10-09T04:06:00.092456+00:00"
+    }
+  ]
+}
