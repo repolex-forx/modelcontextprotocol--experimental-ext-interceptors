@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/experimental-ext-interceptors/commit/b60459844cc95f2170297ebe1c84b7de8b752953",
       "git:hexsha": "b60459844cc95f2170297ebe1c84b7de8b752953",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
